@@ -1,5 +1,4 @@
-package A;
-// The following java code is based on a multi-layer 
+// The following java code is based on a multi-layer
 // Back Propagation Neural Network Class (BackPropagation.class)
 //
 // Created by Anthony J. Papagelis & Dong Soo Kim

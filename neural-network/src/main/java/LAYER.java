@@ -5,7 +5,6 @@
 //
 //  DateCreated:	15 September, 2001
 //  Last Update:	14 October, 2001
-package A;
 
 import java.util.*;
 import java.io.*;

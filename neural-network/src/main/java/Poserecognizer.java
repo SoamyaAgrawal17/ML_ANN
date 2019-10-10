@@ -1,6 +1,3 @@
-package A;
-
-
 import java.io.*;
 import java.util.*; 
 
